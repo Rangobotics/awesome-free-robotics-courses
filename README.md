@@ -11,4 +11,3 @@ This is a list of awesome free Robotics courses.
 * [Mathematical Methods for Robotics, Vision, and Graphics](https://www.youtube.com/playlist?list=PLQ3UicqQtfNvQ_VzflHYKhAqZiTxOkSwi) **Standford**
 * [Underactuated Robotics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/) **MIT**
 * [Robotics and Automation](https://metr4202.uqcloud.net/lectures.html) **University of Queensland**
-* 
