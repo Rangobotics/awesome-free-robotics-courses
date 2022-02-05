@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a><br>
 
 
-<i>A curated list of awesome and free Robotics courses</i>
+<i>A curated list of awesome and free Robotics courses, initialy based on a subset of Steve Nouri's list.</i>
 
 <a href="https://github.com/guilyx/awesome-free-robotics-courses/stargazers"><img src="https://img.shields.io/github/stars/guilyx/awesome-free-robotics-courses" alt="Stars Badge"/></a>
 <a href="https://github.com/guilyx/awesome-free-robotics-courses/network/members"><img src="https://img.shields.io/github/forks/guilyx/awesome-free-robotics-courses" alt="Forks Badge"/></a>
